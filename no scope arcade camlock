@@ -153,7 +153,7 @@ RService.RenderStepped:Connect(function()
 		end
 	end
 	if CheckIfJumped == true then
-		if AimlockTarget.Character.HuDDDDDDDDDDWmanoid.FloorMaterial == Enum.Material.Air then
+		if AimlockTarget.Character.HuDDDDDDDDDDLuanoid.FloorMaterial == Enum.Material.Air then
 
 			getgenv().AimPart = "HumanoidRootPart"
 		else
